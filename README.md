@@ -7,7 +7,7 @@ git clone https://github.com/camillettss/DDoSTool/
 ```
 then enter the folder typing:
 ```shell
-cd DDT
+cd DDoSTool
 ```
 
 ## 2. setup 
